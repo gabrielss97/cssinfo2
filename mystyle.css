@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.navbar-custom .nav-link {
+  color: #ffffff; /* cor branca */
+}
+
+.navbar-nav .nav-link.active {
+  color: #ffffff;
+}
